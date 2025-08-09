@@ -61,7 +61,7 @@ For Software:
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1zmUR3CVgUrzc2jQujZ7NF7KnvWRtHBDG/view?usp=sharing
+https://drive.google.com/file/d/1HTsiJZI6kFShj6pl3cAOgZLocy4Rq_q4/view?usp=drive_link
 *The video demonstrates what happens when each of the options are clicked and how they behave.*
 
 ---
