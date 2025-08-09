@@ -6,7 +6,6 @@ A quirky and humorous virtual plant simulator built with Python and Tkinter.
 
 
 ## Basic Details
-### Team Name: [Name]
 
 ### Team Name: INDIVIDUAL
 
